@@ -8,6 +8,10 @@
 
 - [py - Python 多进程编程](https://github.com/LeoSirius/tutorial_python_multi_process)
 
+### 算法
+
+- [leetcode多语言、多方法、带单元测试的题解](https://github.com/LeoSirius/leetcode_solutions)
+
 ## 后端
 
 ### Web Server/APP
