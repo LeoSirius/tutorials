@@ -1,7 +1,12 @@
 > “What I cannot create, I do not understand.” – Richard Feynman
 
-这些仓库，长期维护。
-看到问题，找我修复。
+这些仓库，长期维护。看到问题，找我修复。Thanks♪(･ω･)ﾉ
+
+## 基础
+
+### 多进程
+
+- [py - Python 多进程编程](https://github.com/LeoSirius/tutorial_python_multi_process)
 
 ## 后端
 
