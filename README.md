@@ -1,6 +1,6 @@
 > “What I cannot create, I do not understand.” – Richard Feynman
 
-这些仓库，长期维护。看到问题，找我修复。Thanks♪(･ω･)ﾉ
+这些仓库，长期维护。看到问题，找我修复。 Thanks♪(･ω･)ﾉ
 
 ## 基础
 
