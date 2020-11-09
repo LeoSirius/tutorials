@@ -21,7 +21,7 @@
 - [py - python_web_server_from_scratch](https://github.com/LeoSirius/python_web_server_from_scratch)
 - [py - socket_programming_in_python](https://github.com/LeoSirius/tutorial_socket_programming_in_python)
 
-### PRC
+### RPC
 
 - [py - python_rpc](https://github.com/LeoSirius/tutorial_python_rpc)
 
