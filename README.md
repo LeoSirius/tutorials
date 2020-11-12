@@ -6,7 +6,7 @@
 
 ### 系统编程
 
-- [linux c一站式教程]()
+- [linux c一站式教程](https://github.com/LeoSirius/tutorial_linux_c)
 - [c - unix环境高级编程](https://github.com/LeoSirius/tutorial_apue)
 - [py - Python 多进程编程](https://github.com/LeoSirius/tutorial_python_multi_process)
 
